@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolekcijeDatotekaCSV", "kolekcijeDatotekaCSV\kolekcijeDatotekaCSV.csproj", "{F483C3FF-F0C3-4AEB-AABF-648D8FAE27C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F483C3FF-F0C3-4AEB-AABF-648D8FAE27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F483C3FF-F0C3-4AEB-AABF-648D8FAE27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F483C3FF-F0C3-4AEB-AABF-648D8FAE27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F483C3FF-F0C3-4AEB-AABF-648D8FAE27C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A99662B-9AB3-4E99-9C16-153494504096}
+	EndGlobalSection
+EndGlobal
